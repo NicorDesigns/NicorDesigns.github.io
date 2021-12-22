@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-04-18 11:47:21 -0400
-categories: jekyll update
+title:  "Questions that a Senior Software Engineer will ask in an interview."
+date:   2021-12-22 11:47:21 -0400
+categories: software engineering career
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+1. Will I be working as part of a team that will meet face to face on a daily basis?
 
-`YEAR-MONTH-DAY-title.MARKUP`
+2. Do your team adhere to Test Driven Development principles?
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+3. Does your Sprint Planning involve the whole team picking stories from a backlog and assign story points in the Fibonacci series that correspond to level of effort?
 
-Jekyll also offers powerful support for code snippets:
+4. Is the process to get new developers set up in your development environment well documented in a central location and automated ?
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+5. Do you follow the principle of Git Flow in your release process and if not is your process documented in detail?
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+6. Are there large sections of unused or abandoned code in your current code base that is running in your production environment?
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+7. Do you use pull requests for your code review process with integrated tools such as BitBucket ?
+
+8. Do you have a collaborative culture or a rock star driven culture?
+
+9. Do you have a plan of where you want to be with your software?
+
+10. Do you understand what technical debt is and can you explain it ?
