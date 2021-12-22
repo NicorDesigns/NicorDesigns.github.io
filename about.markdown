@@ -4,15 +4,45 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Senior Software Engineer
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Accomplished in the full life cycle of software design from requirements definition, prototyping, proof of concept through to implementation, testing, maintenance and system enhancements.
 
+### Technical Expertise
 
-[jekyll-organization]: https://github.com/jekyll
+#### Languages: 
+
+Java 11, SQL, XML, JavaScript
+
+#### Frameworks:
+
+Apache Camel, Spring Boot , Spring JDBC, Mockito, Spring Security , Spring Data - JPA, Junit, Redis, RabbitMQ, ActiveMQ
+
+#### API's:
+
+RAML, REST/Json, Eclipse SWT, JavaBeans, JSP, Servlets, EJB 2.1, Collections, JTA, JDBC, Eclipse Platform SDK
+
+#### Concepts:
+
+OOA/OOD (UML, Design Patterns, Re-factoring), SOA, Micro Services, Unit Testing, Mock Objects, RUP, Agile, Scrum, TDD
+
+#### App. Servers:
+
+Jboss AS, IBM Webshpere, Equinox OSGI, BEA Weblogic, Tomcat, OpenCMS
+
+#### Release Tools: 
+ 
+Docker, Maven, Bamboo, Subversion, Jira, Ant, CVS, Git, Rational Suite
+
+#### IDE’s :
+
+IntelliJ IDEA, Eclipse, Spring Tool Suite
+
+#### Databases: 
+Mongo DB, Oracle, MS SQL Server, MySQL, MariaDB
+
+#### OS:
+
+Windows, Linux
+
