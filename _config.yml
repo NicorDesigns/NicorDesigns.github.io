@@ -28,7 +28,7 @@ twitter_username: KockDino
 github_username:  NicorDesigns
 show_excerpts: true
 permalink: /:title/
-google_analytics: G-6FRHJR2N4K
+google_analytics: UA-142382603-2
 
 # Build settings
 theme: minima
