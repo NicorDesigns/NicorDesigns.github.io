@@ -7,7 +7,6 @@ categories: software engineering entrepreneur
 
 [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk): [Ashlee Vance](https://www.goodreads.com/author/show/761595.Ashlee_Vance)
 
-
 My rating: [5 of 5 stars](https://www.goodreads.com/review/show/1843649943)
 
 A fascinating look into the private and very public life of South African-born entrepreneur Elon Musk.
