@@ -7,7 +7,7 @@ categories: software engineering career
 
 1. Will I be working as part of a team that will meet face to face on a daily basis?
 
-2. Do your team adhere to Test Driven Development principles?
+2. Does your team adhere to Test Driven Development principles?
 
 3. Does your Sprint Planning involve the whole team picking stories from a backlog and assign story points in the Fibonacci series that correspond to level of effort?
 

@@ -31,7 +31,7 @@ permalink: /:title/
 google_analytics: G-Q16MDTPE9D
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
