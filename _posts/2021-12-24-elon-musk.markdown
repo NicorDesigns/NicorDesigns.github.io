@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Book Review: Elon Musk: Inventing the Future"
-date:   2021-12-24 11:47:21 -0400
+date:   2021-12-24 11:57:21 -0400
 categories: software engineering entrepreneur
 ---
 
