@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Beginners Introduction to SOAP with SPRING-WS"
-date:   2021-12-27 11:57:21 -0400
+date:   2021-12-26 11:57:21 -0400
 categories: software engineering entrepreneur
 ---
 
 #### SOAP with SPRING-WS
 
 How to implement SOAP Web Services with Spring Web Services?
+
 How to use a free third party tool SOAP-UI to test our SOAP Web Service?
 
 #### UNDERSTANDING SOAP
@@ -55,11 +56,16 @@ calls.
 Build a SOAP Service that accept Insurance Contracts for Widgets
 
 Widget co is screaming for the WSDL!
+
 The client is going to send us an XML document over HTTP.
+
 This XML document will conform to a SOAP envelope specification.
-Our SOAP service will accept this XML Insurance Application Document and return an acknowledge receipt document in XML 
+
+Our SOAP service will accept this XML Insurance Application Document and return an acknowledgment receipt document in XML 
 format that will conform to the SOAP specification.
+
 Now, all of this will be specified in our WSDL document.
+
 Which means once the WSDL is published the client Widget Co will know what they will have to send to us and what XML 
 document they will receive in acknowledgment.
 
