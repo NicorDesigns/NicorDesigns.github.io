@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When will software eat all the garbage?"
-date:   2021-12-22 11:47:21 -0400
+date:   2021-12-23 11:47:21 -0400
 categories: software engineering entrepreneur
 ---
 

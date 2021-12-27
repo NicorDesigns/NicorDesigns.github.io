@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Algorithms to Live By: The Computer Science of Human Decisions"
-date:   2021-12-25 11:47:21 -0400
+date:   2021-12-21 11:47:21 -0400
 categories: software engineering entrepreneur
 ---
 
@@ -17,7 +17,6 @@ This is but one example of many.
 
 I enjoyed listening to the audio-book during my daily commute and bought the e-book to do a more detailed study, in 
 order to see where and what will work.
-
 
 [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by): 
 [Brian Christian](https://www.goodreads.com/author/show/4199891.Brian_Christian)
