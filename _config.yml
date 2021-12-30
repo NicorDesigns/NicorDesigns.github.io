@@ -33,7 +33,6 @@ google_analytics: UA-142382603-2
 # Build settings
 theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
