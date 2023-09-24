@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -28,7 +28,7 @@ twitter_username: KockDino
 github_username:  NicorDesigns
 show_excerpts: true
 permalink: /:title/
-google_analytics: UA-142382603-2
+google_analytics: G-Q16MDTPE9D
 
 # Build settings
 remote_theme: jekyll/minima
