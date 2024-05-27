@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: nicordesigns.github.io
+Token: 384250b45cf0d7ac5b679864dd25f11cea503721dff4a75e793c9b3aa2acb86f
