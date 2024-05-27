@@ -49,6 +49,9 @@ everyone in the organization use our approved Java Project structure
 - generate a test project from our new archetype
 - run our new test project
 
+If you'd like to support my channel, you can donate via PayPal: [Donate via PayPal](https://paypal.me/nicordesigns?country.x=US&locale.x=en_US)
+
+
 The client has to use: (Create a new Youtube Tutorial here)
 
 [![SOAP-WS YOUTUBE TUTORIAL](https://img.youtube.com/vi/d6rAG11goFM/mq2.jpg)](https://www.youtube.com/watch?v=d6rAG11goFM)
