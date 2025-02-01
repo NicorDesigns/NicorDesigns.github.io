@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "What is SOAP Web Services?"
-date:   2025-01-30 11:57:21 -0400
-categories: ["software engineering", "entrepreneur"]
-
+date:   2025-01-30 11:47:21 -0400
+categories: software engineering career
 ---
-
-If you'd like to support my channel, you can donate via PayPal: [https://paypal.me/nicordesigns?country.x=US&locale.x=en_US](https://paypal.me/nicordesigns?country.x=US&locale.x=en_US)
 
 High-level overview of SOAP Web Services concepts:
 
