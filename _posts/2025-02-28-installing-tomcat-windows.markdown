@@ -8,7 +8,8 @@ categories: software engineering career
 # Apache Tomcat 9 Servlet/JSP Web App Tutorial
 
 ## Video Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zwwquQ3yNb0" title="Apache Tomcat 9 Servlet/JSP Web App in 25 Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Apache Tomcat 9 Setup](https://youtu.be/zwwquQ3yNb0)
+
 
 ## Description
 Servlet and JSP Tutorial for Beginners using Apache Tomcat 9 and Eclipse IDE. Getting Started with Java Web Development.
